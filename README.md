@@ -10,7 +10,7 @@ The system consists of three parts:
 * A WEB interface developed using React-Native that allows remote access to data collected from a remote computer, in order to detect inappropriate content.
 
 <p align="center">
-<img src="https://i.ibb.co/HPGZ7qt/block-diagram.png" width="300" hspace="10" vspace="10"><img src="https://i.ibb.co/Yt9ryKD/Client-server-architecture.jpg" width="300" hspace="10" vspace="10">
+<img src="https://i.ibb.co/HPGZ7qt/block-diagram.png" width="400" hspace="10" vspace="10"><img src="https://i.ibb.co/Yt9ryKD/Client-server-architecture.jpg" width="300" hspace="10" vspace="10">
 </p>
 
 ## Server (Spring-Boot + Apache-Tomcat)
