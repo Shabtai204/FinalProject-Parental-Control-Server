@@ -9,8 +9,9 @@ The system consists of three parts:
 * C / C ++ spyware that is responsible for collecting data from the monitored computer and keeping it on a remote server securely.
 * A WEB interface developed using React-Native that allows remote access to data collected from a remote computer, in order to detect inappropriate content.
 
+<p align="center">
 <img src="https://i.ibb.co/HPGZ7qt/block-diagram.png" width="500" hspace="10" vspace="10"><img src="https://i.ibb.co/Yt9ryKD/Client-server-architecture.jpg" width="400" hspace="10" vspace="10">
-
+</p>
 
 ## Server (Spring-Boot + Apache-Tomcat)
 The server side is developed in the Java language using Spring-Boot in combination with the Apache-Tomcat server software. The development is done with the support of many external libraries, which are imported through Maven technology.
